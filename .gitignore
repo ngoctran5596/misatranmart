@@ -10,6 +10,8 @@
 
 # production
 /build
+./.vscode
+/node_modules
 
 # misc
 .DS_Store
